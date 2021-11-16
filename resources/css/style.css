@@ -1,19 +1,39 @@
 .maintitle {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: white;
     text-align: center;
 }
 
 body {
     background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
 }
 
 .downloadlink {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 16px;
     color: aquamarine;
     text-align: center;
+}
+
+.introtitle {
+    font-weight: 300;
+    font-size: 48px;
+}
+
+.plaintext {
+    font-size: 21px;
+    color: grey;
+}
+
+.foot {
+    text-align: right;
+}
+
+a:link{
+    color: aquamarine;
+    text-decoration: underline;
 }
